@@ -8,7 +8,7 @@ This comprehensive dashboard for Adventure Works visualizes key insights into ou
 💍 Marital Status Sales Breakdown (Pie Chart)
 🎓💼 Education and Occupation-Based Sales Insights
 
-💵 Top Sales by Income & 🏆 Top Customer by Sales (Cards)
+💵 Top Income Customer by Sales & 🏆 Top Customer by Sales (Cards)
 
 Plus, filter insights by region using the Top Slicer for Regional Analysis. 
 Tailor your approach and refine your marketing strategy with this dashboard's in-depth look into customer demographics and purchase behavior. 
