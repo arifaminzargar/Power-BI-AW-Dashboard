@@ -10,4 +10,6 @@ This comprehensive dashboard for Adventure Works visualizes key insights into ou
 
 💵 Top Sales by Income & 🏆 Top Customer by Sales (Cards)
 
-Plus, filter insights by region using the Top Slicer for Regional Analysis. Tailor your approach and refine your marketing strategy with this dashboard's in-depth look into customer demographics and purchase behavior. #DataAnalytics #CustomerProfile #BusinessIntelligence #AdventureWorks #PowerBI #SalesDashboard
+Plus, filter insights by region using the Top Slicer for Regional Analysis. 
+Tailor your approach and refine your marketing strategy with this dashboard's in-depth look into customer demographics and purchase behavior. 
+#DataAnalytics #CustomerProfile #BusinessIntelligence #AdventureWorks #PowerBI #SalesDashboard
