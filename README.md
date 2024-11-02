@@ -1,5 +1,6 @@
 # Power-BI-AW-Dashboard
-This comprehensive dashboard for Adventure Works visualizes key insights into our Ideal Customer Profile (ICP) with a user-friendly interface. Featuring:
+This comprehensive dashboard for Adventure Works visualizes key insights into our Ideal Customer Profile (ICP) with a user-friendly interface. 
+Featuring:
 
 🍩 Homeownership Sales (Donut Chart)
 📊 Sales by Annual Income Brackets (Stacked Bar Chart)
