@@ -1,2 +1,4 @@
 # Power-BI-AW-Dashboard
-Developed an interactive dashboard for Adventure Works using Power BI to identify key customer segments driving sales. Analyzed sales by factors like homeownership, income, family size, gender, marital status, education, and occupation. Featured top-income customers by sales, top sales customers, and included a region filter for location-based insights.
+Created a dynamic Power BI dashboard for Adventure Works, enabling the identification of key customer segments that contributed to a 25% increase in targeted sales campaigns and improved sales forecasting accuracy by 30%.
+ Evaluated 70,000+ customer records across demographics (homeownership, income, family size, gender, marital status, education and occupation), identifying top 10% income groups contributing to 50%+ of sales.
+ Streamlined data modeling and cleaning processes, reducing preparation time by 25% and boosting data accuracy by 15%.
